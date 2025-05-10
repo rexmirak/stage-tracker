@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# Package distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Test outputs
+htmlcov/
+.coverage
+.cache/
+pytest_cache/
+
+# IDE settings
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# MyPy, coverage, etc.
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# PyCharm and Pylint
+*.pylint.d
+
+#history
+history/
